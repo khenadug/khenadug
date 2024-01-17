@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Khena Dungu
 - 👀 I’m interested in software engineering 
-- 🌱 I’m currently learning C and C++
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning JavaScript and React
 - 📫 How to reach me - email : khenadungu@gmail.com 
 
 <!---
